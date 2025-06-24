@@ -73,6 +73,6 @@ TypeScript
 📬 Contact
 If you’d like to collaborate or learn more, feel free to reach out:
 
-	Email: knightwatcherlandry6@gmail.com
+	Email: shemalandry6@gmail.com
 
-	GitHub: @knightwatcher21
+	GitHub: @Shema21
